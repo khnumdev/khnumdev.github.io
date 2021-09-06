@@ -4,4 +4,4 @@ title:  "Links"
 permalink: /links/
 ---
 
-[Old blog](https://geeks.ms/aperez)
+[Old blog](https://geeks.ms/blogs/aperez)
