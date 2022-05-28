@@ -9,7 +9,7 @@ I have the same feeling in general but with some points that I have started to c
 
 Several months after first lockdown with pandemic I have decided to start walking to refresh my mind and doing some exercise. It is a cheap activity (is free), it is
 [healthy](https://www.health.harvard.edu/staying-healthy/5-surprising-benefits-of-walking) and it can be done at any age and mostly at any time of the day. When I was doing my commute 
-I tried to do as much as possible for walking such as not using escalators or elevators, trying to save couple of underground stations if they are close and time spent is near the same than
+I tried to do as much as possible for walking such as not using escalators or elevators, trying to save couple of underground stations if they are close which time spent is near the same than
 using it, etc.
 But I must admit that being a remote worker and without anything to do for going out and without being a particular lover of doing exercise I had lost most of the physical activity
 I just need to be a healthier person. Pandemic with lockdown contribute it to put the things worse but at least I realized it. For doing exercise there are two ways: going to the gym/home
@@ -36,22 +36,21 @@ for being listened in live now is offered in all formats: live/recorded video; l
 - Based on TV shows: same as radio, but just the audio recorded. Problem of this way of listening the podcast is that probably you are going to skip some details and stuff make sense
 on the show with cameras but not with audio.
 - Single topic podcast: for example, ancient history, psychology, etc. Based on my experience this content is usually well prepared and with high quality.
-- Interviews: where each episode there is an interview to a person. I think conducting an interview is hard, close to an art as you must prepare a lot to the person you want
+- Interviews: where each episode there is an interview to a person. I think conducting an interview is hard, like an art as you must prepare a lot to the person you want
 to make the questions and get interesting answers. But if the interview is not well-prepared it could be a waste of time.
 - Audiobook/stories: if well done it is a pleasure to hear good voice actors or actresses interpreting the book/story characters.
 - Soft talk show: with this category I put in the same group all podcasts where two or more people discuss a topic or between them about something like friend’s bar conversation.
 Main problem is that probably there could be an episode which is interesting, but normally listen to people speaking and discussing about a topic they do not know -or even worse, they
 started learning about it just the day before- is usually not a good idea for the listener. Think about it with the same but going into a pub.
-- Corporate podcast: mostly in tech sector -not sure if same happen in others- but is like *soft talk show* but entirely dedicated to sell themselves. I normally prefer to see what they do instead
-of what listen what they say to do.
+- Corporate podcast: could be interesting if they speak about something they know and they have actual experience on the field; otherwise it could be just a poor sales podcast.
 
 It seems that individuals/groups/companies have a podcast series with several episodes. Podcast platforms are scalable and the fact that everyone has a smartphone or a computer that can
 use means that they can be consumed. You can choose between Audible, Spotify, Tidal, Apple Podcast, Ivoox, Amazon and more platforms that offers podcasts; and of course as a business
 they play with [exclusivities](https://www.latimes.com/entertainment-arts/business/story/2021-05-12/spotify-has-exclusive-deal-with-armchair-expert-podcast) to move customers from one platform to another. Better to wait to the future to determine if the quantities paid for those exclusivities and efforts are supported by financial statements of the companies, because at the moment it seems that numbers are not as good they expect.
 
-But after that it seems that we do not realize we have a *pretty limitation*: **we still have 24 hours per day** and for example, [Youtube]https://earthweb.com/how-many-videos-are-uploaded-to-youtube-a-day/#:~:text=YouTubers%20upload%20about%20720%2C000%20hours,form%20of%20content%20online%20today) is uploading 720.000 hours per day; if that data is true it means that each day 82 years of video content is uploaded. So, there are two questions raised here:
+But after that it seems that we do not realize we have a *pretty limitation*: **we still have 24 hours per day** and for example, [Youtube]https://earthweb.com/how-many-videos-are-uploaded-to-youtube-a-day/#:~:text=YouTubers%20upload%20about%20720%2C000%20hours,form%20of%20content%20online%20today) is uploading 720.000 hours per day; if that data is right it means that each day 82 years of video content is uploaded. So, there are two questions raised here:
 - are we able to listen ALL new published content?
-- how can determine if a content is worth to listen to? Remember your time is limited.
+- how can determine if a content is worth to listen to? Remember **your time is limited**.
 
 ## Are we in ~~trouble~~ a bubble (again)?
 
@@ -64,17 +63,18 @@ impact: for non-mental work can be interesting always you have an environment wh
 That brings the situation of choosing what to listen and when, as everyday there are more and more new episodes to listen. 
 
 I do think that at some way there is a bubble podcast: so much content with still time is limited about how much can be consumed. Also, there is a concept here: quantity or quality? My bet
-is always to prioritize quality over quantity. For example, if you listen an interview and after finished it you are still thinking about that conversation is a good one; however, if you are listen
+is always to prioritize quality over quantity. For example, if you listen an interview and after finished it you are still thinking about that conversation is a good one; however, if you listen
 to something and forget about it -just to have some noise in the background meanwhile you are doing other stuff- probably not the best one and it could be discarded.
 
-There is another thing to consider but it is more on the side of the *makers* instead of the *consumers*. You have an idea, a content and decide to write something. There is a format that
-needs to be chosen: can be a video, a podcast or even a blogpost. Normally reading is faster and more accurate than listening things; normally face expressions have sense in a video than 
-in an audio; normally an interview where you want to get interesting things could be more natural with video/audio that then putting the transcription into a post, etc. 
+There is another thing to consider but it is more on the side of the *makers* instead of the *consumers*. You have an idea and decide to write something. There is a format that
+needs to be chosen: can be a video, a podcast or even a blogpost. Normally reading is faster and more accurate than listening things; face expressions have sense in a video than 
+in an audio; an interview where you want to get interesting things could be more natural with video/audio that then putting the transcription into a post, etc. 
 
 My point and from a quality-focus perspective I would consider following questions before listening to something:
 - is the content interested to be shared? and why?
 - is podcast the right format for the content?
-  - is more effective to write the content instead of publishing into a post? why?
+  - is more effective to write the content instead of publishing into a post? why? Just as an example: if you listen a 2h podcast episode which can be summarized into a
+  ~5 minutes text reading I would say someone owes you 115 minutes of your time.
 
 If content is not interesting, not the right format or it can be converted into a blogpost probably quality is not the metric you want to use. 
 Note one thing in communication theory here: the message is the important thing, not who speaks.
@@ -83,8 +83,8 @@ Note one thing in communication theory here: the message is the important thing,
 
 After that, my personal tips for choosing podcasts:
 - There are podcasts which production is not as professional as you want but content it is. Focus on content more in how it is done.
-- For some podcasts, be careful with biases. Based on my experience, the most smarted they seems they are, the more biased are actually.
-- Avoid companies/*soft talk shows* as much as possible, unless you find an episode or set of episodes with content you are interested on. 
+- For some podcasts, be careful with biases. Based on my experience, the most smart they think they are, the more biased.
+- Avoid *soft talk shows* as much as possible, unless you find an episode or set of episodes with content you are interested on. 
 - Whenever possible, listen to people who has a *skin in the game* as normally are best ones you can learn from.
 - For a better subscription handling: 
   - Before subscribing, check several episodes to ensure you want to listen more.
