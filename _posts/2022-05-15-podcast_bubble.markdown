@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "The podcast bubble"
+date:   2022-05-28 15:47:20 +0200
+categories: phylosophy
+---
+
 Podcasts and podcasting are not a new thing but since pandemic situation it has been rise as a new way of entertainment.
 
 I have been a podcast consumer for more than 15 years, of course not all the time same podcasts and not with the same consuming time. First podcasts I started to
