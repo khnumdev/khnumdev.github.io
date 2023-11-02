@@ -2,7 +2,8 @@
 layout: post
 title:  "My current linux cheatsheet/setup"
 date:   2023-11-01 19:47:20 +0200
-categories: linux
+tags: linux windows bitlocker
+categories: tech
 ---
 
 Since I've joined [Worklytics](https://www.worklytics.co/) I'm using Linux as operanting system for my daily work there. I've used Linux first time
@@ -12,15 +13,20 @@ rest of .NET things.
 The purpose of this post is for me, as a note for the future with the links I've found useful for setup and using Ubuntu since then.
 All credits belongs to the author of the related posts, I've just put there as a compilation.
 
-## Dual boot with Bitlocker
+- [Dual boot with Bitlocker and LUKS](#dual-boot-with-bitlocker-and-luks)
+- [Git colors in terminal](#git-coloured-current-branch-in-terminal)
+- [Noise when connecting the speakers](#speaker-issues-not-solved)
+- [Low space on boot partition](#low-space-in-boot-partition)
 
-First time I've installed Linux it was a like a pain. Since the release of Kubuntu (yeah I'm not as younger as I'd like to be) and Ubuntu the installation process, updates and package manager have improved a lot. Now just downloading the ISO of Ubuntu and put it in a USB pen is enough to setup the whole Linux system. The installation provides all the partition setup required for that. 
+## Dual boot with Bitlocker and LUKS
+
+First time I've installed Linux it was a like a pain. Since the release of Kubuntu (yeah I'm not as younger as I'd like to be) and Ubuntu the installation process, updates and package manager have improved a lot. Now just downloading the ISO of Ubuntu and put it in a USB stick is enough to setup the whole Linux system. The installation provides all the partition setup required for that. 
 
 But for sure this is more complicated if you want to keep two SOs (Windows and Linux) over the same computer, having both with disk encryption features enabled. 
 
 **NOTE**: This is only when two features are enabled. If Bitlocker/encryption are not enabled (and you SHOULD use it!) this post is not useful.
 
-I've follow the detailed description of steps from [Mike Kasberg dual boot ubuntu and linux](https://www.mikekasberg.com/blog/2020/04/08/dual-boot-ubuntu-and-windows-with-encryption.html) which describe the following steps (leaving steps here in case of the post is removed/lost):
+I've followed the detailed description of steps from [Mike Kasberg dual boot ubuntu and linux](https://www.mikekasberg.com/blog/2020/04/08/dual-boot-ubuntu-and-windows-with-encryption.html) which describe the following things to do (even present in his blog, I'm leaving them here in case of the post is removed/lost):
 1. As a prerequisite, we are going to do a clean installation of both systems.
 2. Make a USB pen with Ubuntu installation
 3. Create the partitions from Ubuntu live installation:
@@ -95,7 +101,7 @@ Logical volume "root" created.
 11. [Setup the password to decrypt](https://www.mikekasberg.com/blog/2020/04/08/dual-boot-ubuntu-and-windows-with-encryption.html#phase-4-install-ubuntu) the disk
 
 
-Now the computer is setup with dual boot, Bitlocker and LUKS. Note at this point, *any* change done by updates (for example, updating firmware from Ubuntu updates) may modify the boot partition causing that Bilocker *detects* that a change has been done in the disk, requesting you your key to allow you to unblock your computer on next reboot. This is why I've try to update the main stuff from Windows and *not* from Ubuntu.
+Now the computer is setup with dual boot, Bitlocker and LUKS. Note at this point, *any* change done by updates (for example, updating firmware from Ubuntu updates) may modify the boot partition causing that Bilocker *detects* that a change has been done in the disk, requesting you your key to allow you to unblock your computer on next reboot. This is why I'll try to update the main stuff from Windows and *not* from Ubuntu.
 
 ## Git coloured current branch in terminal
 
@@ -115,16 +121,16 @@ parse_git_branch() {
 export PS1="\u@\h \w\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 ```
 
-And close terminals and reopen them again. 
+Finally, just close any terminals and reopen them again. 
 
 ## Speaker issues (not solved!)
 
-Still not solved. Sound drivers still are a nightmare in Linux and in my case, if I connect a set of speakers from the 3.5 mm jack I heard an electrical noise as sound. It is not a computer issue because that is not happening in Windows.
+Still not solved. Sound drivers still are a nightmare in Linux and in my case, if I connect a set of speakers from the 3.5 mm jack I heard an electrical noise as sound. It is not a physical computer issue because that is not happening in Windows.
 
 This is the [post](https://askubuntu.com/questions/1230833/annoying-click-popping-sound-on-ubuntu-20-04) where some solutions are present; I've read that the one to 
 enable the [auto-mute](https://askubuntu.com/a/1351408) from alsamixer works for some people, but not in my case.
 
-On my computer, it seems like the headset input (but it is selected headphones when plugged in) is producing the internal input sound, colliding with the microphone. Weird, but if I disable it there are no noise (and no sound!). However with a bluetooth headset there is no problem.
+On my computer, it seems like the headset input (but it is selected headphones when plugged in) is producing the internal input sound, colliding with the microphone. Weird, but if I disable it there is no noise (and no sound!). However with a bluetooth headset there is no problem.
 
 There is another [post](https://askubuntu.com/questions/1241617/ubuntu-20-04-after-last-update-speakers-are-buzzing-unless-i-open-the-sound-s) with more details; playing with internal mic volume and gain improved the noise but still is there.
 
