@@ -4,4 +4,8 @@ title:  "Links"
 permalink: /links/
 ---
 
-[Old blog](https://geeks.ms/blogs/aperez)
+- [My old blog](https://geeks.ms/blogs/aperez)
+
+## Other blogs
+
+- [Kartones](https://blog.kartones.net/)
