@@ -10,7 +10,7 @@ This is a small post about some thoughts that recently come to my mind since the
 
 Note that these thoughts are a result of my personal experience of living in a privileged country.
 
-I am part of [Millenials] (https://en.wikipedia.org/wiki/Millennials). I grew up without the internet and it was common until I was a teenager. When I was at school
+I am part of [Millenials](https://en.wikipedia.org/wiki/Millennials). I grew up without the internet and it was common until I was a teenager. When I was at school
 and I need looking for information I was lucky as I had an encyclopedia at home. It was funny the process of finding the right book to look for and then, reading pages and
 paragraphs until I found whatever I needed. Same for dictionaries. Then, when I had my first computer at home one of the first software that I used was a dictionary for checking
 the meaning of words for homework. It was fast and nice at that time, just put the CD into the computer, run the program and write the word you want. And it gives you a set of complete results,
