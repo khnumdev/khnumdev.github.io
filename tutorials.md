@@ -4,6 +4,11 @@ title:  "Tutorials & Talks"
 permalink: /tutorials/
 ---
 
+## Index
+- [How to design distributed systems](#how-to-design-distributed-systems)
+- [How to work at home](#how-to-work-at-home)
+
+
 ## How to design distributed systems
 
 Talk and tutorial as part of Distributed App Developments subject from an official [University of Alicante Master degree in development applications and web services](https://web.ua.es/en/masteres/desarrollo-de-aplicaciones-y-servicios-web/university-master-s-degree-in-development-of-applications-and-web-services.html).
