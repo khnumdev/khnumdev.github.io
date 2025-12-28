@@ -8,7 +8,7 @@ This blog contains personal thoughts and opinions on technology, software engine
 
 ## Tech Stack
 
-- **Jekyll** - Static site generator (v3.9.5 via GitHub Pages)
+- **Jekyll** - Static site generator (v3.10.0 via GitHub Pages)
 - **GitHub Pages** - Hosting platform with automatic deployment
 - **Minima** - Clean and minimal Jekyll theme (v2.5)
 - **Kramdown** - Markdown processor
