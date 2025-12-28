@@ -28,15 +28,38 @@ twitter_username: AndresPerezGil
 github_username:  khnumdev
 linkedin_username: andresperezgil
 
+# Timezone configuration
+timezone: Europe/Madrid
+
+# SEO settings
+author:
+  name: Andrés Pérez Gil
+  email: helloandres@outlook.com
+
+# Social links for SEO
+social:
+  name: Andrés Pérez Gil
+  links:
+    - https://twitter.com/AndresPerezGil
+    - https://github.com/khnumdev
+    - https://www.linkedin.com/in/andresperezgil
+
 show_excerpts: true
 
+# Pagination settings
 paginate: 5
+paginate_path: "/page:num/"
 
 # Build settings
 theme: minima
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
