@@ -226,6 +226,20 @@ Example custom CSS file (`assets/main.scss`):
 
 This project is open source and available under the terms specified in the [LICENSE](LICENSE) file.
 
+## Terms of Use & AI Training Policy
+
+**All content on this blog is protected by copyright.** The use of any content from this site for training artificial intelligence or machine learning models is **strictly prohibited** without explicit written permission from the author.
+
+This includes, but is not limited to:
+- Training large language models (LLMs)
+- Fine-tuning AI systems
+- Creating datasets for machine learning
+- Any form of automated content extraction for AI purposes
+
+This website employs technical measures including `robots.txt` directives and meta tags to prevent AI crawlers from accessing and using the content. Any circumvention of these protections is a violation of these terms.
+
+For licensing inquiries or permission requests, please contact the author.
+
 ## Contact
 
 - **Author**: Andrés Pérez Gil
