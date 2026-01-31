@@ -14,7 +14,7 @@ permalink: /tutorials/
 Talk and tutorial as part of Distributed App Developments subject from an official [University of Alicante Master degree in development applications and web services](https://web.ua.es/en/masteres/desarrollo-de-aplicaciones-y-servicios-web/university-master-s-degree-in-development-of-applications-and-web-services.html).
 
 - PPTS: [Uploaded to SlideShare](https://www.slideshare.net/slideshow/distributed-systems-design-principles-and-experiencies/277337982)
-- Tutorial: [How to build your first distributed system: a render farm with Blender](https://github.com/khnumdev/dist-app-tutorial)
+- Tutorial: [How to build your first distributed system: a render farm with Blender](https://khnumdev.github.io/dist-app-tutorial/)
 
 ## How to work at home
 
