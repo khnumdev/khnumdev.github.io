@@ -34,7 +34,7 @@ How did we get here? If my mother asked me, I would say:
 - We developed deep learning techniques in the 2010s, achieving breakthroughs in image and speech recognition.
 - We created large-scale datasets for training AI models. More data led to better model performance.
 - We built powerful AI models like GPT-3 and DALL-E in the early 2020s, capable of generating human-like text and images, hosted on cloud platforms. *Unlimited* power for researchers and companies.
-- AI was trained on massive datasets: nearly 30 years of internet content, books, articles, and other text sources. Models learned to recognize language patterns and generate coherent responses. And all of these content is available using natural language. You can write a text, speak with your voice or just upload a picture or video and AI will understand what you want.
+- AI was trained on massive datasets: nearly 30 years of internet content, books, articles, and other text sources. Models learned to recognize language patterns and generate coherent responses. And all of this content is available using natural language. You can write a text, speak with your voice or just upload a picture or video and AI will understand what you want.
 - For the future, most people expect to reach [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) at some point, with companies investing heavily in being first, much like the space race.
 
 And here we are in 2026, living in the AI Wonderland. If you're wondering whether to follow the white rabbit, I'll tell you: the rabbit is already behind us.
