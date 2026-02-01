@@ -104,7 +104,7 @@ I also suspect we're in a bubble. Eventually, funding will dry up and some AI co
 
 Every day I read cases where people ask AI about medical issues and it usually gives good responses, or [how AI helps in protein research](https://www.science.org/content/article/ai-revolution-comes-protein-sequencing). The kinds of new things that are now possible are almost impossible to imagine. Just think about the possibilities in the next 5-10 years. Personally, I expected quantum computing to be the next big thing for problems that seemed unsolvable, but AI is here now and impacting our lives.
 
-For that reason, I believe AI will become normal, just like home internet is now. I won't speak in future tense: AI is changing labor and how we consume information. What about the effects? Unknown yet. But I can be comfortable knowing my name isn't John Connor.
+For that reason, I believe AI will become normal, just like home internet is now. AI is changing labor and how we consume information. What about the effects? Unknown yet. But I can be comfortable knowing my name isn't John Connor.
 
 
 
