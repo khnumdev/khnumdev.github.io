@@ -39,7 +39,7 @@ How did we get here? If my mother asked me, I would say:
 
 And here we are in 2026, living in the AI Wonderland. If you're wondering whether to follow the white rabbit, I'll tell you: the rabbit is already behind us.
 
-## How AI is impacting in my life
+## How AI is impacting my life
 
 As I mentioned, I'm not new to AI. Despite my curiosity, I had many concerns about what data to share in prompts. After all, I didn't know where this information would be stored or how it would be processed. Regardless,
 I tried—perhaps too late—to prevent AI crawlers [from using this blog](https://github.com/khnumdev/khnumdev.github.io/commit/eb88d2494ed0b62b32b1a8342cde295968bd1ad8).
@@ -52,7 +52,7 @@ Translation is no longer a problem. You can ask in any language, and AI responds
 
 So what's the most impactful use in my daily life? I use AI for almost everything. I barely use Google anymore; I ask AI instead. I only Google when AI's response is inadequate or when I need very specific information. 
 
-## How AI is Impacting My Work as a Software Engineer
+## How AI is impacting my work as a software engineer
 
 As you can imagine, I barely use Stack Overflow anymore, and I'm not alone—[AI has significantly impacted SO](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/). I ask AI for code snippets, explanations, and best practices instead. It works great most of the time. Sometimes you need to refine the prompt, but eventually you get what you want. However, this isn't easy: you need to learn how to set up LLMs, how to formulate questions, and how to *phrase requests* to get useful results.
 
@@ -68,7 +68,7 @@ There's also the question of code quality and programming languages. For persona
 
 Another related point is proper code quality. Coding is hard; writing good code is harder. Code isn't art or inherently beautiful (though it can be ugly). Code is a tool for solving problems. It needs to be readable, understandable, and maintainable. AI isn't perfect yet and sometimes generates suboptimal, insecure, or incorrect code. We need to review AI-generated code, test it thoroughly, and ensure it meets quality standards. AI can't do this yet. However, not all code *needs to be perfect*. If you're building a startup and want to ship fast, iterate, and experiment, you can now accomplish in days what took months before. You can build an MVP in days instead of weeks. That's a game changer for startups. 
 
-## Is John Connor Ready to Play?
+## Is John Connor ready to play?
 
 But the question is: will AI take my *current* job? Probably. It's a matter of time—whether 2 years or 10 years, it will happen.
 
@@ -77,7 +77,19 @@ Recent studies show that [junior worker hiring is shrinking](https://observer.co
 
 My job isn't just coding anymore. Throughout my career, I've had to learn new languages, frameworks, platforms, architectures, [devops](https://es.slideshare.net/slideshow/devops-cult-what/128327583), and tools—now including AI. Not using AI as a software engineer today is like using horses for transportation instead of a Formula 1 car. I'm not saying we'll stop coding or developing software, but how we do it is changing—fast.
 
-## "It's Always Tea-Time"
+## "Curiouser and curiouser"
+
+But with great power comes great responsibility, and AI brings serious ethical concerns we can't ignore. Prompt engineering has democratized content creation, but it's also flooded the internet with low-value content—generic blog posts, soulless music, forgettable videos. It's digital rubbish, created not because someone has something meaningful to say, but because they can generate it in seconds. This content pollution dilutes genuine human creativity and makes it harder to find quality work.
+
+Then there's the question of consent. AI models were trained on massive datasets scraped from the internet—books, articles, artwork, code—often without permission or compensation to creators. Artists discover their styles replicated, writers find their prose mimicked, and photographers see their images used to train systems that could replace them. It's a Wild West of intellectual property rights, and the legal frameworks haven't caught up.
+
+Deepfakes represent another danger. We've moved beyond silly Will Smith videos to convincing fake political speeches, non-consensual intimate imagery, and sophisticated scams. The erosion of trust in media is accelerating—we're reaching a point where seeing is no longer believing. Democracy itself faces threats when you can't distinguish real from fabricated. And the main problem here is that each time is harder to detect fakes, as AI improves.
+
+As AI can simulate voices, scams are more present than ever. Each security breach in a company means that a lot of bots can be trained with real human voices, used to impersonate employees or even relatives of the victim. Imagine receiving a call from your boss asking for sensitive information, or from a family member in distress requesting money. The emotional manipulation is powerful, and AI makes these scams more convincing than ever.
+
+And let's not forget the environmental cost. Training large AI models consumes enormous amounts of energy—[some estimates suggest training a single model generates as much carbon as five cars over their lifetimes](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/). As AI usage scales, so does its carbon footprint. Data centers running inference queries 24/7 require massive electricity and cooling. We're solving problems faster, but at what environmental cost?
+
+## "It's always tea-time"
 
 AI feels like a true third revolution—something that will fundamentally change how we live, work, and interact. It's like having all content available with just a prompt—a superpower if used correctly. It feels like ages since I didn't use AI daily, but it was just months ago. Things are moving rapidly: new models, startups, and companies appear constantly. Every week there's something new about AI, and it's hard to stay updated.
 
